@@ -1,0 +1,24 @@
+#app{
+background-color:aqua;
+}
+#app02{
+    background-color: beige;
+}
+#app03{
+  background-color:lightslategrey;
+
+}
+.linea{
+    background-color: darkred;
+    width: 250px;
+    height: 6px;
+    margin: 8px auto;
+}
+body{
+background-color: darkslategray;
+text-align: center;
+}
+h1{
+font-size: 30px;
+font-family: cursive;
+}
