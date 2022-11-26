@@ -1,0 +1,40 @@
+#app{
+background-color:aqua;
+}
+#app02{
+    background-color: beige;
+}
+#app03{
+  background-color:lightslategrey;
+}
+.linea{
+    background-color: darkred;
+    width: 250px;
+    height: 6px;
+    margin: 8px auto;
+}
+body{
+background-color: darkslategray;
+text-align: center;
+padding-left: 100px;
+padding-right: 100px;
+}
+h1{
+font-size: 30px;
+font-family: cursive;
+}
+#mi_carrusel
+{
+    background-color: rgba(27, 162, 114, 0.337);
+}
+#mi_carrusel img{
+height: 300px;
+margin-top: 35px;
+}
+.carousel-inner{
+    color: saddlebrown;
+    font-family:fantasy;
+    font-size: 20px;
+    margin-top: 15px;
+    
+}
